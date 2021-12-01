@@ -26,7 +26,7 @@ import {
 } from './EntityTypes';
 
 // FIXME: This should be configurable
-export const STUDY_ACCESS_SERVICE_URL = '/dataset-access';
+export const STUDY_ACCESS_SERVICE_URL = '/eda';
 
 // API  defined in https://veupathdb.github.io/service-dataset-access/api.html
 const STAFF_PATH = '/staff';
